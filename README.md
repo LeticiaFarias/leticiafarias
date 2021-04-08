@@ -1,6 +1,6 @@
-## Hello! Welcome to my GitHub! 😊
+# Hello! Welcome to my GitHub! 😊
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiafarias&show_icons=true&theme=dracula"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=leticiafarias&show_icons=true&theme=dracula"/>
 
 
 ## About me 👩🏻
