@@ -1,7 +1,7 @@
 ## Hello! Welcome to my GitHub! 😊
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafarias&&hide=html&layout=compact&theme=dracula&cache_seconds=1000" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=leticiafarias&show_icons=true&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafarias&&hide=html&layout=compact&theme=dracula&cache_seconds=1000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiafarias&show_icons=true&theme=dracula"/>
 
 
 ## About me 👩🏻
