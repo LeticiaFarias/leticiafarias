@@ -1,7 +1,7 @@
 ## Hello! Welcome to my GitHub! 😊
-
+<div>
 <img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafarias&&hide=html&layout=compact&theme=dracula&cache_seconds=1000" /><img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=leticiafarias&show_icons=true&theme=dracula"/>
-    
+</div>   
 
 ## About me 👩🏻
 >-  Student of Information Systems at the Federal University of Ceará 
