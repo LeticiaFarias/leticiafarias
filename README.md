@@ -5,7 +5,7 @@
 
 ## About me 👩🏻
 >-  Student of Information Systems at the Federal University of Ceará 
->-  Junior Frontend Developer
+>-  Intern in development 
 >-  Requirements Analyst
 >- I am passionate about Software Engineering ❤
 >- [My Resume](https://resume.io/r/j7lwLYpfx) 
