@@ -1,4 +1,4 @@
-<img align="right" src="https://i.pinimg.com/564x/cc/72/33/cc7233ef0e8e55228236c49f7ad12f1d.jpg" width="400"/>
+<img align="right" src="https://user-images.githubusercontent.com/40062831/133709491-c19e73aa-49ae-4e4b-a441-3720ff69dc23.png" width="500"/>
 
 ## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Letícia
 ![Count views](https://komarev.com/ghpvc/?username=leticiafarias&color=blueviolet) 
