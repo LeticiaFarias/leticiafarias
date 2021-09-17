@@ -29,8 +29,8 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafarias&&hide=html&layout=compact&&hide_border=true&theme=omni&cache_seconds=1000" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leticiafarias&show_icons=true&theme=omni&&hide_border=true&layout=compact"/>
+  <img height="1800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafarias&&hide=html&layout=compact&&hide_border=true&theme=omni&cache_seconds=1000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiafarias&show_icons=true&theme=omni&&hide_border=true&layout=compact"/>
 </details>
 
 ### Conect with me 
