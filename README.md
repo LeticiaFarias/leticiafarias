@@ -1,4 +1,4 @@
-<a align="right" href="https://app.daily.dev/lettifarias"><img src="https://github.com/LeticiaFarias/leticiafarias/blob/main/devcard.svg" width="400" alt="Letícia Farias's Dev Card"/></a>
+<a href="https://app.daily.dev/lettifarias"><img align="right" src="https://github.com/LeticiaFarias/leticiafarias/blob/main/devcard.svg" width="400" alt="Letícia Farias's Dev Card"/></a>
 ## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Letícia
 ![Count views](https://komarev.com/ghpvc/?username=leticiafarias&color=blueviolet) 
 [![My resume](https://img.shields.io/badge/-Resume-blueviolet)](https://resume.io/r/j7lwLYpfx)
