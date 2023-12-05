@@ -3,24 +3,14 @@
 ![Count views](https://komarev.com/ghpvc/?username=leticiafarias&color=blueviolet) 
 [![My resume](https://img.shields.io/badge/-Resume-blueviolet)](https://resume.io/r/j7lwLYpfx)
 
-- 🔭 I’m currently working with React Native Windows
+- 🔭 I’m currently working with React Native and React
 - 🌱 I’m currently learning React, React Native, Node and Open Source
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love superhero movies and anime, I also like reading manga and books
 
-##
 
-<div>
-  <img src="https://icongr.am/devicon/html5-original.svg?size=35&color=currentColor">
-  <img src="https://icongr.am/devicon/css3-original.svg?size=35&color=currentColor">
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor"> 
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=35&color=currentColor">
-  <img src="https://icongr.am/devicon/react-original.svg?size=35&color=currentColor">
-  <img src="https://icongr.am/devicon/c-original.svg?size=35&color=currentColor">
-  <img src="https://icongr.am/devicon/linux-original.svg?size=35&color=currentColor">
-  <img src="https://icongr.am/devicon/git-original.svg?size=35&color=currentColor">
-  <img src="https://icongr.am/devicon/yarn-original.svg?size=35&color=currentColor">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,vite,vscode,linux,git,md)](https://skillicons.dev)
+
 
 ##
 
@@ -28,8 +18,8 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafarias&&hide=html&layout=compact&&hide_border=true&theme=omni&cache_seconds=1000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiafarias&show_icons=true&theme=omni&&hide_border=true&layout=compact"/>
+  <img href="#"src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafarias&&hide=html&layout=compact&&hide_border=true&theme=omni&cache_seconds=1000&line_height=20" />
+  <img href="#"src="https://github-readme-stats.vercel.app/api?username=leticiafarias&show_icons=true&theme=omni&&hide_border=true&layout=compact"/>
 </details>
 
 ### Conect with me 
